@@ -1,0 +1,10 @@
+
+flask
+flask-cors
+pymongo
+python-dotenv
+bcrypt
+PyJWT
+imagekitio
+ultralytics
+requests
